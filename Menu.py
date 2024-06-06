@@ -17,6 +17,7 @@ def Menu_Principal():
             if opc == 4:
                 print("Saliendo....")
                 print("*************************************************")
+                break
             elif opc==1:
                 print(" *-* BIENVENIDO COORDINADOR *-* ")
                 print("¿Que desea hacer hoy?")
@@ -26,7 +27,7 @@ def Menu_Principal():
                 if opc1== 8:
                     print("Saliendo....")
                     print("************************************************")
-                    return
+                    continue
                 elif opc1 ==1:
                     Crear_Ruta()
                 elif opc1==2:
