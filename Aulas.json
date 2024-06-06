@@ -1,0 +1,151 @@
+{
+    "Aulas": {
+        "Apolo6am-10am": {
+            "Trainer ID": "456",
+            "Nombre": "Sergio",
+            "Ruta": {
+                "NodeJS": {
+                    "Bootstrap": null,
+                    "Java": null,
+                    "Mysql": null
+                }
+            },
+            "Aula": "Apolo",
+            "Horario": "6am-10am",
+            "Cantidad de campers": 1,
+            "Camper": {
+                "1": "Prueba"
+            },
+            "Fecha Inicio": "21/12/2024",
+            "Fecha Finalizacion": "24/12/2025"
+        },
+        "Sputnik6am-10am": {
+            "Trainer ID": null,
+            "Nombre": null,
+            "Ruta": null,
+            "Aula": "Sputnik",
+            "Horario": "6am-10am",
+            "Cantidad de campers": 0,
+            "Camper": {},
+            "Fecha Inicio": null,
+            "Fecha Finalizacion": null
+        },
+        "Artemis6am-10am": {
+            "Trainer ID": "654",
+            "Nombre": "Andres",
+            "Ruta": {
+                "Java": {
+                    "JavaScript": null,
+                    "C#": null,
+                    "CSS": null,
+                    "NodeJS": null
+                }
+            },
+            "Aula": "Artemis",
+            "Horario": "6am-10am",
+            "Cantidad de campers": 0,
+            "Camper": {},
+            "Fecha Inicio": "10/11/2024",
+            "Fecha Finalizacion": "10/11/2025"
+        },
+        "Apolo10am-2pm": {
+            "Trainer ID": null,
+            "Nombre": null,
+            "Ruta": null,
+            "Aula": "Apolo",
+            "Horario": "10am-2pm",
+            "Cantidad de campers": 0,
+            "Camper": {},
+            "Fecha Inicio": null,
+            "Fecha Finalizacion": null
+        },
+        "Sputnik10am-0pm": {
+            "Trainer ID": null,
+            "Nombre": null,
+            "Ruta": null,
+            "Aula": "Sputnik",
+            "Horario": "10am-2pm",
+            "Cantidad de campers": 0,
+            "Camper": {},
+            "Fecha Inicio": null,
+            "Fecha Finalizacion": null
+        },
+        "Artemis10am-2pm": {
+            "Trainer ID": null,
+            "Nombre": null,
+            "Ruta": null,
+            "Aula": "Artemis",
+            "Horario": "10am-2pm",
+            "Cantidad de campers": 0,
+            "Camper": {},
+            "Fecha Inicio": null,
+            "Fecha Finalizacion": null
+        },
+        "Apolo2pm-6pm": {
+            "Trainer ID": null,
+            "Nombre": null,
+            "Ruta": null,
+            "Aula": "Apolo",
+            "Horario": "2pm-6pm",
+            "Cantidad de campers": 0,
+            "Camper": {},
+            "Fecha Inicio": null,
+            "Fecha Finalizacion": null
+        },
+        "Sputnik2pm-6pm": {
+            "Trainer ID": null,
+            "Nombre": null,
+            "Ruta": null,
+            "Aula": "Sputnik",
+            "Horario": "2pm-6pm",
+            "Cantidad de campers": 0,
+            "Camper": {},
+            "Fecha Inicio": null,
+            "Fecha Finalizacion": null
+        },
+        "Artemis2pm-6pm": {
+            "Trainer ID": null,
+            "Nombre": null,
+            "Ruta": null,
+            "Aula": "Artemis",
+            "Horario": "2pm-6pm",
+            "Cantidad de campers": 0,
+            "Camper": {},
+            "Fecha Inicio": null,
+            "Fecha Finalizacion": null
+        },
+        "Apolo6pm-10pm": {
+            "Trainer ID": null,
+            "Nombre": null,
+            "Ruta": null,
+            "Aula": "Apolo",
+            "Horario": "6pm-10pm",
+            "Cantidad de campers": 0,
+            "Camper": {},
+            "Fecha Inicio": null,
+            "Fecha Finalizacion": null
+        },
+        "Sputnik6pm-10pm": {
+            "Trainer ID": null,
+            "Nombre": null,
+            "Ruta": null,
+            "Aula": "Sputnik",
+            "Horario": "6pm-10pm",
+            "Cantidad de campers": 0,
+            "Camper": {},
+            "Fecha Inicio": null,
+            "Fecha Finalizacion": null
+        },
+        "Artemis6pm-10pm": {
+            "Trainer ID": null,
+            "Nombre": null,
+            "Ruta": null,
+            "Aula": "Artemis",
+            "Horario": "6pm-10pm",
+            "Cantidad de campers": 0,
+            "Camper": {},
+            "Fecha Inicio": null,
+            "Fecha Finalizacion": null
+        }
+    }
+}

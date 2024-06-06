@@ -1,0 +1,56 @@
+{
+    "Notas": {
+    "1": {
+        "Ruta":"NodeJS",
+        "Modulo":{
+        "PSeInt": {
+            "Prueba Teorica": null,
+            "Prueba Practica": null,
+            "Quiz": null,
+            "Trabajo": null,
+            "Aprobado": false
+        },
+        "HTML": {
+            "Prueba Teorica": null,
+            "Prueba Practica": null,
+            "Quiz": null,
+            "Trabajo": null,
+            "Aprobado": false
+        },
+        "NetCore": {
+            "Prueba Teorica": 80,
+            "Prueba Practica": 100,
+            "Quiz": 100,
+            "Trabajo": 100,
+            "Aprobado": true
+        }
+        }
+    },
+    "12": {
+        "Ruta": "Java", 
+        "Modulo": {
+        "JavaScript": {
+            "Prueba Teorica": 10,
+            "Prueba Practica": 10,
+            "Quiz": 10,
+            "Trabajo": 10,
+            "Aprobado": false
+        },
+        "Mysql": {
+            "Prueba Teorica": 10,
+            "Prueba Practica": 10,
+            "Quiz": 10,
+            "Trabajo": 1,
+            "Aprobado": true
+        },
+        "NetCore": {
+            "Prueba Teorica": 1,
+            "Prueba Practica": 1,
+            "Quiz": 1,
+            "Trabajo": 1,
+            "Aprobado": false
+        }
+        }
+    }
+    }
+}

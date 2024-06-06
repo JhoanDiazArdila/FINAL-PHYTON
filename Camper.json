@@ -1,0 +1,79 @@
+{
+    "12": {
+        "Nombre": "Jhoan",
+        "Apellido": "Diaz",
+        "Telefono": 321,
+        "Direccion": "calle 13",
+        "Jornada": "Diurna",
+        "Estado": "Cursando",
+        "Ruta": "Java",
+        "Modulo": {
+            "JavaScript": {
+                "Prueba Teorica": 10,
+                "Prueba Practica": 10,
+                "Quiz": 10,
+                "Trabajo": 10,
+                "Aprobado": false
+            },
+            "Mysql": {
+                "Prueba Teorica": 10,
+                "Prueba Practica": 10,
+                "Quiz": 10,
+                "Trabajo": 10,
+                "Aprobado": false
+            },
+            "NetCore": {
+                "Prueba Teorica": 10,
+                "Prueba Practica": 10,
+                "Quiz": 10,
+                "Trabajo": 10,
+                "Aprobado": false
+            }
+        },
+        "Riesgo": false
+    },
+    "321": {
+        "Nombre": "Diaz",
+        "Apellido": "Jhoan",
+        "Telefono": 987,
+        "Direccion": "asd",
+        "Jornada": "Tarde",
+        "Estado": "Inscrito",
+        "Ruta": null,
+        "Modulo": {},
+        "Riesgo": false
+    },
+    "789": {
+        "Nombre": "fabio",
+        "Apellido": "Melabio",
+        "Telefono": 789,
+        "Direccion": "melabio",
+        "Jornada": "Tarde",
+        "Estado": "Inscrito",
+        "Ruta": null,
+        "Modulo": {},
+        "Riesgo": false
+    },
+    "1": {
+        "Nombre": "Prueba",
+        "Apellido": "Prueba",
+        "Telefono": 1,
+        "Direccion": "1",
+        "Jornada": "Diurna",
+        "Estado": "Cursando",
+        "Ruta": null,
+        "Modulo": {},
+        "Riesgo": false
+    },
+    "25": {
+        "Nombre": "david",
+        "Apellido": "leon",
+        "Telefono": 25,
+        "Direccion": "25",
+        "Jornada": "Tarde",
+        "Estado": "Inscrito",
+        "Ruta": null,
+        "Modulo": {},
+        "Riesgo": false
+    }
+}

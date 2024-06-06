@@ -1,0 +1,20 @@
+{
+    "456": {
+        "Nombre": "Sergio",
+        "Apellido": "Ardila",
+        "Telefono": 456,
+        "Direccion": "calle 14"
+    },
+    "654": {
+        "Nombre": "Andres",
+        "Apellido": "Mollejas",
+        "Telefono": 654,
+        "Direccion": "molleja"
+    },
+    "987": {
+        "Nombre": "Padrino",
+        "Apellido": "Magico",
+        "Telefono": 987,
+        "Direccion": "FairyTown"
+    }
+}
