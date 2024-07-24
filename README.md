@@ -49,7 +49,7 @@ Ya se cuenta con datos de prueba para que el programa se puede ejecutar en cualq
 La carpeta principal contiene todos los archivos necesarios para su correcta ejecucion. Adicionalmente, cuenta con un archivo Json como biblioteca con datos de prueba.
 
 > [!WARNING]
-> ALgunas funciones se encuentran en mantenimiento.
+> Algunas funciones se encuentran en mantenimiento.
 > La asignacion de notas se esta manejando por el equipo especializado.
 
 ## Tecnologías Utilizadas
